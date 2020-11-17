@@ -1,0 +1,21 @@
+
+
+	`include "/./packages/i2c_seq_item.sv"
+	`include "/./packages/i2c_seq.sv"
+	`include "/./packages/i2c_seqr.sv"
+	`include "/./packages/i2c_driver.sv"
+	`include "/./packages/i2c_monitor.sv"
+	`include "/./packages/i2c_scoreboard_rs.sv"
+	`include "/./packages/i2c_scoreboard_start.sv"
+       	`include "/./packages/i2c_scoreboard_stop.sv"
+	`include "/./packages/i2c_scoreboard_data.sv"
+	`include "/./packages/i2c_scoreboard_datar.sv"
+	`include "/./packages/i2c_scoreboard_add.sv"
+	`include "/./packages/i2c_scoreboard_rw.sv"
+	`include "/./packages/i2c_scoreboard_ack.sv"
+	`include "/./packages/i2c_scoreboard_dv.sv"
+	`include "/./packages/i2c_scoreboard.sv"
+	`include "/./packages/i2c_agent.sv"
+	`include "/./packages/i2c_env.sv"
+	`include "/./packages/i2c_test.sv"
+
